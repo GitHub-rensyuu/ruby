@@ -1,3 +1,4 @@
 # ruby
 
-Rubyを学ぼう
+DMMWEBCAMPコンテンツ
+【Rubyを学ぼう】
